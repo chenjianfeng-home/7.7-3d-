@@ -3,7 +3,7 @@
 
 一座完全使用 WebGL / Three.js 程序化生成的电影级轨道空间站。无需外部 3D 模型，所有结构、材质、光照、星空、行星与界面均在浏览器中实时构建。
 
-![preview](./preview.png)
+![Uploading preview.png…]()
 
 ## 启动
 
