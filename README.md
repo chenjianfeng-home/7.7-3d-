@@ -1,10 +1,10 @@
-![Uploading preview.png…]()
+
 [README.md](https://github.com/user-attachments/files/34638205/README.md)
 # HELIOS · 天穹轨道站
 
 一座完全使用 WebGL / Three.js 程序化生成的电影级轨道空间站。无需外部 3D 模型，所有结构、材质、光照、星空、行星与界面均在浏览器中实时构建。
 
-![Uploading preview.png…]()
+
 
 ## 启动
 
@@ -54,27 +54,6 @@ http://127.0.0.1:8123
 
 空间站面板里的 **自动巡航** 仍可启动 30 秒连续行星航程。
 
-## 更多画面
-
-**地球 / EARTH**
-
-![earth](./screenshots/earth.png)
-
-**太阳系 / SOL SYSTEM**
-
-![system](./screenshots/system.png)
-
-**自由驾驶 / FREE FLIGHT**
-
-![game](./screenshots/game.png)
-
-**自动巡航 / GRAND TOUR**
-
-![tour](./screenshots/tour.png)
-
-**结构拆解 / EXPLODED ASSEMBLY**
-
-![explode](./screenshots/explode.png)
 
 ## 技术构成
 
